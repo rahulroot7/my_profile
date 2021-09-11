@@ -1,5 +1,5 @@
 # my_profile
-👋 Hi, I’m @nittinbushari
+👋 Hi, I’m @Rahul_Root
 👀 I’m interested in Web Development
 🌱 I’m currently learning Laraval
 💞️ I’m looking to collaborate on Web projects
